@@ -1,4 +1,4 @@
-# Image_Caption_Generator
+# Image Caption Generator
 
 ## Objetivo 🚀
 El objetivo de este trabajo es aprender sobre cómo una red neuronal puede generar subtítulos automaticamente a una imagen.
